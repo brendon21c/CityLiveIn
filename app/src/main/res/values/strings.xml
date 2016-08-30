@@ -1,0 +1,7 @@
+<resources>
+    
+    <string name="app_name">City You Live In</string>
+    <string name="person_name">Your name</string>
+    <string name="show_information">Display your information</string>
+
+</resources>
