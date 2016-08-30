@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
                 Toast.makeText(MainActivity.this, name + " lives in " + city, Toast.LENGTH_LONG).show();
 
+                /*
+                This next block is just to reset the fields after clicking the button
+                */
                 personsName.setText("");
                 personsCity.setText("");
 
